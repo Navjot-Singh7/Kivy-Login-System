@@ -86,8 +86,3 @@ A practical authentication system demonstrating Kivy's capabilities for building
 ```txt
 kivy
 ```
-
-🎯 Repository Description:
-
-```
-Kivy Authentication System - Login/Register app with form validation, error handling & multi-screen navigation
